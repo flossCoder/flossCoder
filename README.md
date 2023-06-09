@@ -1,4 +1,4 @@
-![grafik](/run/media/adolf/302D-4AD2/github/Landing_page_avatar/bg_dark_github.png)
+![bg_dark_github](https://github.com/flossCoder/flossCoder/assets/24732034/73a11dcc-f539-43c1-8231-9778c902e1ff)
 
 ### Welcome to my GitHub homepage
 
