@@ -1,6 +1,6 @@
-### Welcome to my GitHub homepage
-
 ![bg_dark_github](https://github.com/flossCoder/flossCoder/assets/24732034/7edac58b-2ad2-44b7-a71c-a229bc09c552)
+
+### Welcome to my GitHub homepage
 
 In the following you can see some free tools I use:
 
