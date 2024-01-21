@@ -1,6 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body background="https://github.com/flossCoder/flossCoder/assets/24732034/7edac58b-2ad2-44b7-a71c-a229bc09c552">
 ### Welcome to my GitHub homepage
-
-![bg_dark_github](https://github.com/flossCoder/flossCoder/assets/24732034/7edac58b-2ad2-44b7-a71c-a229bc09c552)
 
 In the following you can see some free tools I use:
 
@@ -21,3 +22,6 @@ In the following you can see some free tools I use:
 
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+
+</body>
+</html>
