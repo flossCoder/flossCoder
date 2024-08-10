@@ -25,4 +25,4 @@ In the following you can see some free tools I use:
 
 ### Language stats
 
-[![Meine GitHub-Sprachstatistiken](https://github-readme-stats.vercel.app/api/top-langs/?username=flossCoder&langs_count=5)
+[![Meine GitHub-Sprachstatistiken](https://github-readme-stats.vercel.app/api/top-langs/?username=flossCoder&theme=tokyonight)]
