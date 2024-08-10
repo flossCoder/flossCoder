@@ -22,4 +22,4 @@ In the following you can see some free tools I use:
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
-[![Meine GitHub-Sprachstatistiken](https://github-readme-stats.vercel.app/api/top-langs/?username=flossCoder&theme=tokyonight)]
+![Meine GitHub-Sprachstatistiken](https://github-readme-stats.vercel.app/api/top-langs/?username=flossCoder&theme=tokyonight)
